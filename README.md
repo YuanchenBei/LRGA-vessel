@@ -1,5 +1,5 @@
 # LRGA-vessel
-This is the LRGA method for ogbl-vessel.
+This is the LRGA method for ogbl-vessel of the OGB Challenge.
 
 
 ## Dependencies
