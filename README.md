@@ -13,10 +13,13 @@ ogb==1.3.4
 ## Results on OGB-vessel:
 Performance on **ogbl-vessel** (10 runs):
 
-| Highest Train AUC | 50.64 ± 2.61 | 
-| Highest Valid AUC | 54.18 ± 4.39 |
-| Final Train AUC | 47.84 ± 2.29 |
-| Final Test AUC | 54.15 ± 4.37 |
+Highest Train AUC: 50.64 ± 2.61
+
+Highest Valid AUC: 54.18 ± 4.39
+
+Final Train AUC: 47.84 ± 2.29
+
+Final Test AUC: 54.15 ± 4.37
 
 
 ## Run Command:
