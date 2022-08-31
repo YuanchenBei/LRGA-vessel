@@ -10,6 +10,10 @@ torch-geometric==2.0.4
 ogb==1.3.4
 ```
 
+## OGB Dateset
+The dataset [ogbl-vessel](https://ogb.stanford.edu/docs/linkprop/#ogbl-vessel) can be download and placed in `./dataset/ogbl_vessel/`.
+
+
 ## Results on OGB-vessel
 Performance on **ogbl-vessel** (10 runs):
 
